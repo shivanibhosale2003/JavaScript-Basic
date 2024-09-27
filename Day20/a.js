@@ -28,3 +28,9 @@ for(let c=1;c<=4;c++){
         console.log(d);
     }
 }
+
+let g=0;
+while(g<=20){
+    console.log(g);
+    g++;
+}
